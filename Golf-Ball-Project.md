@@ -59,47 +59,10 @@ contained in the data set “Golf”. Prepare a Managerial Report
     between the means of the two population?
 
 5.  Do you see a need for larger sample sizes and more testing with the
-    golf balls? Discuss."
+    golf balls?
+Discuss."
 
 ## Libraries/Packages
-
-``` r
-library(readxl)
-library(DataExplorer)
-library(psych)
-library(Hmisc)
-```
-
-    ## Loading required package: lattice
-
-    ## Loading required package: survival
-
-    ## Loading required package: Formula
-
-    ## Loading required package: ggplot2
-
-    ## 
-    ## Attaching package: 'ggplot2'
-
-    ## The following objects are masked from 'package:psych':
-    ## 
-    ##     %+%, alpha
-
-    ## 
-    ## Attaching package: 'Hmisc'
-
-    ## The following object is masked from 'package:psych':
-    ## 
-    ##     describe
-
-    ## The following objects are masked from 'package:base':
-    ## 
-    ##     format.pval, units
-
-``` r
-library(ggplot2)
-library(esquisse)
-```
 
 ## Set Working Directory
 
