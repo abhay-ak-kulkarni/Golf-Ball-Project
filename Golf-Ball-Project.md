@@ -601,8 +601,8 @@ of Test.
 
   - Power of Test:
 
-\++ Although the 2 Tail Hypothesis Test recommends to launch the new
-ball design into Production, the Power of Test is only 25%.
+  - Although the 2 Tail Hypothesis Test recommends to launch the new
+    ball design into Production, the Power of Test is only 25%.
 
   - In order to have 95% Power of Test, it is recommended to have the
     number of samples as 200 for both the designs, and then conclude the
