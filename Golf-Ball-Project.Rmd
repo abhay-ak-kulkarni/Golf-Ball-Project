@@ -65,7 +65,7 @@ balls? Discuss."
 \newpage
 
 ## Libraries/Packages
-```{r}
+```{r include=FALSE}
 library(readxl)
 library(DataExplorer)
 library(psych)
